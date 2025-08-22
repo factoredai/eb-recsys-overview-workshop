@@ -8,6 +8,10 @@ In this hands-on workshop, we’re ready to take your understanding of recommend
 
 Whether you’re building your one recommender or enhancing an existing one, this session will help you grasp key architectural trade-offs, explore real-world use cases, and walk away with insights and code to keep learning and iterating with modern RecSys techniques.
 
+--- 
+## Workshop Repository: https://github.com/factoredai/eb-recsys-overview-workshop
+---
+
 ## 🛠️ Environment Setup Instructions
 
 We’ll use [`uv`](https://github.com/astral-sh/uv), a superfast Python package manager that also handles virtual environments. This will ensure all participants use the same environment for consistent results.
